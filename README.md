@@ -19,7 +19,8 @@ Deployed live on Netlify and automatically updates when I push changes to the re
 .
 ├── index.html          # Main HTML file
 ├── style.css           # Main CSS file
-├── /images             # (Optional) Folder for images, icons, etc.
+├── /assets             # Assets
+Folder for images, icons, etc.
 └── README.md           # Project description
 
 ```
